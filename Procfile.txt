@@ -1,1 +1,0 @@
-web: java -jar target/zillow-search-1.0-SNAPSHOT.jar
