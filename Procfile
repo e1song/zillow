@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/${artifactId}-${version}.jar
+web: java $JAVA_OPTS -cp target/classes:target/zillow-search-1.0-SNAPSHOT.jar
